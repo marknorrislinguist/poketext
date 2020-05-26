@@ -1,2 +1,3 @@
 # poketext
-Messing with scraping and text processing using text from Pokédex entries from the main Pokémon games.
+
+I am using text from Pokédex entries from main Pokémon games to practice text processing, web scraping, and using [spaCy](http://spacy.io) for NLP/NLU phenomena.
